@@ -1,5 +1,5 @@
 def streak():
-    points = [1,5,3,0,8,0,2,3]
+    points = [1,0,1,1,0,1,0,1]
     streak = 0
     best = 0
 
